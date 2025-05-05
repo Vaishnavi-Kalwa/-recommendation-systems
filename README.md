@@ -36,7 +36,7 @@ Collaborative filtering methods - Item based collaborative filtering
                                 
                                 
                                 
-                                - User based collaborative filtering
+                              - User based collaborative filtering
 
 
 
